@@ -27,6 +27,19 @@
 }
 
 
-.topicos
+.topicos{
+  background: var(--azul-degrade);
+  text-aling:center
+  padding:1em 0
+}
+.topicos_titulos{
+    color: var(--branco);
+    font-weight: 300;
+    margin-bottom: 1 em;
+}
+
+
+
+}
 
 
