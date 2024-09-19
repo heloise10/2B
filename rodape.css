@@ -1,4 +1,4 @@
-@import url(banner.css);
+@import url(header.css);
 @import url(banner.css);
 @import url(carrossel.css);
 @import url(topicos.css);
@@ -6,7 +6,7 @@
 @import url(rodape.css);
 
 hr{
-     margin: 0;
+    margin: 0;
 }
 .rodape{
     background-color: var(--branco);
