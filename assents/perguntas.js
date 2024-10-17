@@ -13,3 +13,9 @@ criaCartao(
 criaCartao(
     'programação', 'o que é uma função?', 'uma função é um bloco de código que executa alguma tarefa'
 )
+
+criaCartao(
+    'língua inglesa,'
+    'como se diz oi em ingles'
+    'oi em ingles se diz HI (RAI)'
+)
