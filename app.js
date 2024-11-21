@@ -29,3 +29,5 @@ function criaCartao(categoria,pergunta,resposta){
         ,respostaEstaVisivel)
  } 
 cartao.addEventListener('click',viraCartao)
+
+
